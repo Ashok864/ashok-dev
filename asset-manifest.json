@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ashok-dev/static/css/main.4cd03b03.css",
+    "main.js": "/ashok-dev/static/js/main.583718c4.js",
+    "static/media/portfolio2.png": "/ashok-dev/static/media/portfolio2.016ea0ab427a272665e1.png",
+    "static/media/Ashok.png": "/ashok-dev/static/media/Ashok.cdecaa6f9d2b49ceba8f.png",
+    "static/media/Resume.pdf": "/ashok-dev/static/media/Resume.2d3c4c4d679df35a8437.pdf",
+    "static/media/portfolio5.png": "/ashok-dev/static/media/portfolio5.1a59a15b5eb34e1f9f26.png",
+    "static/media/portfolio3.png": "/ashok-dev/static/media/portfolio3.00da478e3a5b4e51d8c2.png",
+    "static/media/portfolio6.png": "/ashok-dev/static/media/portfolio6.30e566f2c00b739aee9d.png",
+    "static/media/portfolio4.jpg": "/ashok-dev/static/media/portfolio4.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio1.png": "/ashok-dev/static/media/portfolio1.f40f65515da90a5c09e9.png",
+    "static/media/Ashok-1.jpg": "/ashok-dev/static/media/Ashok-1.b250c0b7965fe01ae2ef.jpg",
+    "index.html": "/ashok-dev/index.html",
+    "main.4cd03b03.css.map": "/ashok-dev/static/css/main.4cd03b03.css.map",
+    "main.583718c4.js.map": "/ashok-dev/static/js/main.583718c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cd03b03.css",
+    "static/js/main.583718c4.js"
+  ]
+}
